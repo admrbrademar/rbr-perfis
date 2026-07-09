@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "limites": {
+    "tamanho_maximo_mb": 300,
+    "dds_max_largura": 4096,
+    "dds_max_altura": 4096,
+    "timeout_extracao_ms": 60000
+  },
+  "estrutura": {
+    "raiz_permitida": ["def", "vehicle"],
+    "def_permitida": ["vehicle"],
+    "def_vehicle_permitida": ["truck", "trailer_owned"],
+    "vehicle_permitida": ["truck", "trailer_owned"]
+  },
+  "bloqueio": {
+    "pastas_proibidas": ["engine", "chassis", "cabin"],
+    "extensoes_proibidas": [".pmd", ".pmg"],
+    "palavras_proibidas": {
+      "arquivos": {
+        "trailer_owned": [
+          "edit", "skinedit", "aedit", "btaedit", "rebedit", "mypaint",
+          "textura", "texture", "porca", "parafuso", "lanterna",
+          "deus", "placa", "shape", "teste", "suporte",
+          "bande", "se_", "texto_", "cabine", "letreiro",
+          "addon_hookups", "paralama", "cargo"
+        ],
+        "truck": [
+          "edit", "skinedit", "aedit", "btaedit", "rebedit", "mypaint",
+          "textura", "texture", "porca", "parafuso", "lanterna",
+          "deus", "placa", "shape", "teste", "suporte",
+          "bande", "se_", "texto_", "cabine", "letreiro"
+        ]
+      },
+      "pastas": {
+        "trailer_owned": [
+          "addon_hookups", "cargo"
+        ],
+        "truck": []
+      }
+    }
+  },
+  "icons_validos": ["rbr_nao", "rbr_sim"]
+}
