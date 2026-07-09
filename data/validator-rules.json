@@ -7,10 +7,21 @@
     "timeout_extracao_ms": 60000
   },
   "estrutura": {
-    "raiz_permitida": ["def", "vehicle"],
-    "def_permitida": ["vehicle"],
-    "def_vehicle_permitida": ["truck", "trailer_owned"],
-    "vehicle_permitida": ["truck", "trailer_owned"]
+    "raiz_permitida": [
+      "def",
+      "vehicle"
+    ],
+    "def_permitida": [
+      "vehicle"
+    ],
+    "def_vehicle_permitida": [
+      "truck",
+      "trailer_owned"
+    ],
+    "vehicle_permitida": [
+      "truck",
+      "trailer_owned"
+    ]
   },
   "bloqueio": {
     "pastas_proibidas": ["engine", "chassis", "cabin"],
