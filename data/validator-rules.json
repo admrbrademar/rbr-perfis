@@ -1,5 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
+  "limites": {
+    "tamanho_maximo_mb": 300,
+    "dds_max_largura": 4096,
+    "dds_max_altura": 4096,
+    "timeout_extracao_ms": 60000
+  },
   "estrutura": {
     "raiz_permitida": ["def", "vehicle"],
     "def_permitida": ["vehicle"],
