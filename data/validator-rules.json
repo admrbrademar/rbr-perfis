@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "estrutura": {
+    "raiz_permitida": ["def", "vehicle"],
+    "def_permitida": ["vehicle"],
+    "def_vehicle_permitida": ["truck", "trailer_owned"],
+    "vehicle_permitida": ["truck", "trailer_owned"]
+  },
+  "bloqueio": {
+    "pastas_proibidas": ["engine", "chassis", "cabin"],
+    "extensoes_proibidas": [".pmd", ".pmg"],
+    "palavras_proibidas": {
+      "arquivos": {
+        "trailer_owned": [
+          "edit", "skinedit", "aedit", "btaedit", "rebedit", "mypaint",
+          "textura", "texture", "porca", "parafuso", "lanterna",
+          "deus", "placa", "shape", "teste", "suporte",
+          "bande", "se_", "texto_", "cabine", "letreiro",
+          "addon_hookups", "paralama", "cargo"
+        ],
+        "truck": [
+          "edit", "skinedit", "aedit", "btaedit", "rebedit", "mypaint",
+          "textura", "texture", "porca", "parafuso", "lanterna",
+          "deus", "placa", "shape", "teste", "suporte",
+          "bande", "se_", "texto_", "cabine", "letreiro"
+        ]
+      },
+      "pastas": {
+        "trailer_owned": [
+          "addon_hookups", "cargo"
+        ],
+        "truck": []
+      }
+    }
+  },
+  "icons_validos": ["rbr_nao", "rbr_sim"]
+}
