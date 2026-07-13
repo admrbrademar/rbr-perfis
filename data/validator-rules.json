@@ -32,7 +32,7 @@
           "edit", "skinedit", "aedit", "btaedit", "rebedit", "mypaint",
           "textura", "texture", "porca", "parafuso", "lanterna",
           "deus", "placa", "shape", "teste", "suporte",
-          "bande", "se_", "texto_", "cabine", "letreiro",
+          "bande", "texto_", "cabine", "letreiro",
           "addon_hookups", "paralama", "cargo"
         ],
         "truck": [
