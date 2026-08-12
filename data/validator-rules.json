@@ -20,35 +20,93 @@
     ],
     "vehicle_permitida": [
       "truck",
-      "trailer_owned"
+      "trailer_owned",
+      "trailer_eu"
     ]
   },
   "bloqueio": {
-    "pastas_proibidas": ["engine", "chassis", "cabin"],
-    "extensoes_proibidas": [".pmd", ".pmg"],
+    "pastas_proibidas": [
+      "engine",
+      "chassis",
+      "cabin"
+    ],
+    "extensoes_proibidas": [
+      ".pmd",
+      ".pmg"
+    ],
     "palavras_proibidas": {
       "arquivos": {
         "trailer_owned": [
-          "edit", "skinedit", "aedit", "btaedit", "rebedit", "mypaint",
-          "textura", "texture", "porca", "parafuso", "lanterna",
-          "deus", "placa", "shape", "teste", "suporte",
-          "bande", "texto_", "cabine", "letreiro",
-          "addon_hookups", "paralama", "cargo"
+          "edit",
+          "skinedit",
+          "aedit",
+          "btaedit",
+          "rebedit",
+          "mypaint",
+          "textura",
+          "texture",
+          "porca",
+          "parafuso",
+          "lanterna",
+          "deus",
+          "placa",
+          "shape",
+          "teste",
+          "suporte",
+          "bande",
+          "texto_",
+          "cabine",
+          "letreiro",
+          "addon_hookups",
+          "paralama",
+          "cargo"
         ],
         "truck": [
-          "edit", "skinedit", "skin", "aedit", "btaedit", "rebedit", "mypaint", "se_saia", 
-          "textura", "texture", "porca", "parafuso", "lanterna", "shape1", "se_cabine", "se_paralama", 
-          "deus", "placa", "shape", "teste", "suporte", "luminoso", "template", "pe_1br",
-          "bandeira", "texto_", "cabine", "letreiro", "se1", "adesivo_faixa", "adesivo_tcd", "bande"
+          "edit",
+          "skinedit",
+          "skin",
+          "aedit",
+          "btaedit",
+          "rebedit",
+          "mypaint",
+          "se_saia",
+          "textura",
+          "texture",
+          "porca",
+          "parafuso",
+          "lanterna",
+          "shape1",
+          "se_cabine",
+          "se_paralama",
+          "deus",
+          "placa",
+          "shape",
+          "teste",
+          "suporte",
+          "luminoso",
+          "template",
+          "pe_1br",
+          "bandeira",
+          "texto_",
+          "cabine",
+          "letreiro",
+          "se1",
+          "adesivo_faixa",
+          "adesivo_tcd",
+          "bande"
         ]
       },
       "pastas": {
         "trailer_owned": [
-          "addon_hookups", "cargo"
+          "addon_hookups",
+          "cargo"
         ],
         "truck": []
       }
     }
   },
-  "icons_validos": ["rbr_nao", "rbr_sim"]
+  "icons_validos": [
+    "rbr_nao",
+    "rbr_sim"
+  ]
 }
