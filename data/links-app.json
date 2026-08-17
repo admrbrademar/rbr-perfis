@@ -1,0 +1,33 @@
+{
+  "versao": 1,
+  "tutorialInstalacao": {
+    "nome": "Tutorial Instalação",
+    "url": "https://youtu.be/8mjIufCJQzE",
+    "ativo": true
+  },
+  "tutorialDashboard": {
+    "nome": "Tutorial Dashboard",
+    "url": "https://www.youtube.com/watch?v=WPk2iPB_DJc",
+    "ativo": true
+  },
+  "tutorialCriadorCargas": {
+    "nome": "Tutorial Criador de Cargas",
+    "url": "",
+    "ativo": true
+  },
+  "tutorialCriadorItinerarios": {
+    "nome": "Tutorial Criador de Itinerários",
+    "url": "",
+    "ativo": true
+  },
+  "modsNorman": {
+    "nome": "Norman Mods - Site Oficial",
+    "url": "https://www.normanmods.com.br/multiplayer",
+    "ativo": true
+  },
+  "modsSteam": {
+    "nome": "Mods da Steam (Obrigatórios)",
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3657958587",
+    "ativo": true
+  }
+}
