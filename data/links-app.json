@@ -19,5 +19,10 @@
     "nome": "Tutorial Criador de Itinerários",
     "url": "https://youtu.be/g0xAvGuRDME",
     "ativo": true
+  },
+  "tutorialOrdemMods": {
+    "nome": "Tutorial Ordem",
+    "url": "",
+    "ativo": true
   }
 }
