@@ -1,28 +1,28 @@
 {
   "versao": 1,
   "tutorialInstalacao": {
-    "nome": "Tutorial Instalação",
-    "url": "https://youtu.be/8mjIufCJQzE",
-    "ativo": true
+    "nome": "EM BREVE ...",
+    "url": "",
+    "ativo": false
   },
   "tutorialDashboard": {
-    "nome": "Tutorial Dashboard",
-    "url": "https://www.youtube.com/watch?v=WPk2iPB_DJc",
-    "ativo": true
+    "nome": "EM BREVE ...",
+    "url": "",
+    "ativo": false
   },
   "tutorialCriadorCargas": {
-    "nome": "Tutorial Como criar Cargas",
-    "url": "https://youtu.be/JVlOjKpZRDI",
-    "ativo": true
+    "nome": "EM BREVE ...",
+    "url": "",
+    "ativo": false
   },
   "tutorialCriadorItinerarios": {
-    "nome": "Tutorial Criador de Itinerários",
-    "url": "https://youtu.be/g0xAvGuRDME",
-    "ativo": true
+    "nome": "EM BREVE ...",
+    "url": "",
+    "ativo": false
   },
   "tutorialOrdemMods": {
-    "nome": "Tutorial Ordem",
+    "nome": "EM BREVE ...",
     "url": "",
-    "ativo": true
+    "ativo": false
   }
 }
