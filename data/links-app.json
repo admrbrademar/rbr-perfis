@@ -12,13 +12,13 @@
   },
   "tutorialCriadorCargas": {
     "nome": "Tutorial Como criar Cargas",
-    "url": "https://youtu.be/JVlOjKpZRDI",
+    "url": "",
     "ativo": false
   },
   "tutorialCriadorItinerarios": {
     "nome": "Tutorial Criador de Itinerários",
     "url": "https://youtu.be/g0xAvGuRDME",
-    "ativo": false
+    "ativo": true
   },
   "tutorialOrdemMods": {
     "nome": "Tutorial Ordem",
@@ -27,7 +27,7 @@
   },
   "tutorialTacografo": {
     "nome": "Tutorial Tacógrafo",
-    "url": "",
-    "ativo": false
+    "url": "https://youtu.be/LDsaes4znic",
+    "ativo": true
   }
 }
