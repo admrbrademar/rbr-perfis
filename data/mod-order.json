@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "Mapa RBR MP - Ordem Oficial de Mods",
-  "generatedAt": "2026-10-15T18:07:52.875Z",
+  "generatedAt": "2026-10-15T19:37:50.950Z",
   "mods": [
     {
       "id": "MAPA_RBR_SEM_EUROPA_V.5",
@@ -10,6 +10,69 @@
       "required": true,
       "fileNames": [
         "MAPA_RBR_SEM_EUROPA_V.5.scs"
+      ]
+    },
+    {
+      "id": "RBR_PARTE_13_opcional_multiplayer",
+      "label": "PARTE 13",
+      "value": "RBR_PARTE_13_opcional_multiplayer|PARTE 13",
+      "required": true,
+      "fileNames": [
+        "RBR_PARTE_13_opcional_multiplayer.scs"
+      ]
+    },
+    {
+      "id": "RBR_PARTE_12_opcional_multiplayer",
+      "label": "PARTE 12",
+      "value": "RBR_PARTE_12_opcional_multiplayer|PARTE 12",
+      "required": true,
+      "fileNames": [
+        "RBR_PARTE_12_opcional_multiplayer.scs"
+      ]
+    },
+    {
+      "id": "RBR_PARTE_11_opcional_multiplayer",
+      "label": "PARTE 11",
+      "value": "RBR_PARTE_11_opcional_multiplayer|PARTE 11",
+      "required": true,
+      "fileNames": [
+        "RBR_PARTE_11_opcional_multiplayer.scs"
+      ]
+    },
+    {
+      "id": "RBR_PARTE_10_opcional_multiplayer",
+      "label": "PARTE 10",
+      "value": "RBR_PARTE_10_opcional_multiplayer|PARTE 10",
+      "required": true,
+      "fileNames": [
+        "RBR_PARTE_10_opcional_multiplayer.scs"
+      ]
+    },
+    {
+      "id": "RBR_PARTE_9_opcional_multiplayer",
+      "label": "PARTE 09",
+      "value": "RBR_PARTE_9_opcional_multiplayer|PARTE 09",
+      "required": true,
+      "fileNames": [
+        "RBR_PARTE_9_opcional_multiplayer.scs"
+      ]
+    },
+    {
+      "id": "RBR_PARTE_8_opcional_multiplayer",
+      "label": "PARTE 08",
+      "value": "RBR_PARTE_8_opcional_multiplayer|PARTE 08",
+      "required": true,
+      "fileNames": [
+        "RBR_PARTE_8_opcional_multiplayer.scs"
+      ]
+    },
+    {
+      "id": "RBR_PARTE_7_opcional_multiplayer",
+      "label": "PARTE 07",
+      "value": "RBR_PARTE_7_opcional_multiplayer|PARTE 07",
+      "required": true,
+      "fileNames": [
+        "RBR_PARTE_7_opcional_multiplayer.scs"
       ]
     },
     {
